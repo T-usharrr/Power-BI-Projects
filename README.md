@@ -1,2 +1,2 @@
 # Power-BI-Projects
-Projects which are done in between the learning phase of the Power BI
+While showcasing my Power BI projects, I learn new things and gain experience from each Project.
